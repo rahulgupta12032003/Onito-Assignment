@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "e802",
+      "idType": "PAN",
+      "issuedId": "2123456789",
+      "mobile": 1234567890,
+      "sex": "Female",
+      "age": "23",
+      "name": "gfhghhg",
+      "address": "dsf",
+      "state": "fds",
+      "city": "dfs",
+      "pincode": "212",
+      "country": "Western Sahara"
+    },
+    {
+      "idType": "Aadhar",
+      "issuedId": "363738383383",
+      "mobile": 7888888888,
+      "sex": "Male",
+      "age": "23",
+      "name": "Annathe",
+      "address": "bhujauli",
+      "state": "uttar pradesh",
+      "city": "Deoria",
+      "pincode": "274001",
+      "country": "India",
+      "id": "xRFTVXG"
+    }
+  ]
+}
