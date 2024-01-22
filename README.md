@@ -1,17 +1,6 @@
 # Onito-Assignment
 
-A brief one or two-sentence description of your React app.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+A React app for two-step verification form and storing the users data in datatables.net.
 
 ## Introduction
 
@@ -19,16 +8,13 @@ Provide a more detailed introduction to your React app. Mention its purpose, key
 
 ## Features
 
-- Feature 1: Describe what this feature does.
-- Feature 2: Explain another important feature.
+- Contains user registration form with two-step verification. 
+- Storing the users data in table with enabled facilities of sorting, filtering, searching data and pagination.
 - ...
 
 ## Getting Started
 
 ### Prerequisites
-
-List any software, tools, or dependencies that users need to have installed before they can use your React app.
-
 - Node.js
 - npm (Node Package Manager)
 
@@ -37,13 +23,13 @@ List any software, tools, or dependencies that users need to have installed befo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-react-app.git
+    git clone https://github.com/rahulgupta12032003/Onito-Assignment.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-react-app
+    cd Onito-Assignment
     ```
 
 3. Install dependencies:
@@ -53,8 +39,5 @@ List any software, tools, or dependencies that users need to have installed befo
     ```
 
 ## Usage
-
-Provide instructions on how to run your React app locally and any other important information users need to know.
-
 ```bash
 npm start
